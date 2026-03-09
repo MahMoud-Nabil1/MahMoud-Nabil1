@@ -30,12 +30,6 @@ jobs:
           plugin_languages_details: lines, percentage
           plugin_languages_limit: 6
 
-          # Topics as larger icons
-          plugin_topics: yes
-          plugin_topics_limit: 36
-          plugin_topics_mode: icons
-          plugin_topics_sort: stars
-
           filename: github-metrics.svg
           output_action: commit
           committer_branch: main
