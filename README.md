@@ -39,28 +39,10 @@ A Java-based university project demonstrating core computer science concepts and
 
 I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devmahmoudnabil/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MahMoud-Nabil1)
 
----
-
-## 🎯 Fun Fact
-
-```java
-public class MahmoudNabil {
-    String name = "Mahmoud Nabil";
-    String role = "Software Developer";
-    String[] languages = {"Java", "JavaScript", "TypeScript"};
-    String passion = "Building things that matter";
-
-    String getMotivation() {
-        return "Every bug fixed is a lesson learned. 🐛➡️✅";
-    }
-}
-```
-
----
+--
 
 ## 📊 GitHub Stats
 
