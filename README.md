@@ -8,6 +8,14 @@ Welcome to my GitHub profile! I'm a passionate software developer who loves buil
 
 ---
 
+## 🛠️ Technologies & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,nodejs,git,github,vscode&perline=9" />
+</p>
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🔐 [Password Gen & Vault](https://github.com/MahMoud-Nabil1/Password-Gen-Vault)
