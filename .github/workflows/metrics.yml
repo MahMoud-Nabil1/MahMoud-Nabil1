@@ -24,10 +24,6 @@ jobs:
           config_display: large
           config_animations: yes
 
-          # Contribution calendar (no streak/commits stats)
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-
           # Language stats
           plugin_languages: yes
           plugin_languages_indepth: yes
