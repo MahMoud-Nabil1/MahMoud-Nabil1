@@ -29,12 +29,6 @@ A Java-based university project demonstrating core computer science concepts and
 
 ---
 
-## 📊 GitHub Metrics
-
-![GitHub Metrics](./github-metrics.svg)
-
----
-
 ## 🌟 Let's Connect!
 
 I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out!
