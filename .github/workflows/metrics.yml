@@ -34,7 +34,7 @@ jobs:
           plugin_languages_details: lines, percentage
           plugin_languages_limit: 6
 
-          # Technologies as icons (no rectangles)
+          # Topics as icons only
           plugin_topics: yes
           plugin_topics_limit: 24
           plugin_topics_mode: icons
